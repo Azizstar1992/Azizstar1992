@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Aziz, this is my github where im experimentingn with technologies
+- 👋 Hi, My name is Aziz, this is my github where im experimenting with technologies
 
 <!---
 Azizstar1992/Azizstar1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
